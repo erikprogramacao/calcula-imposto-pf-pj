@@ -20,4 +20,4 @@ O objetivo do programa é ler os dados de vários contribuintes (que podem ser p
 * **Pessoa Jurídica (Empresa):** Se a empresa tiver até 10 funcionários, paga 16%. Se tiver mais de 10, a taxa cai para 14%.
 
 ---
-Feito com ☕ por [Erik](https://github.com)
+Feito com ☕ por [Erik](https://github.com/erikprogramacao)
